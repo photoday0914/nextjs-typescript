@@ -1,0 +1,12 @@
+repoOwner: Create-Inc-Candidates
+learnMoreLink: https://create.xyz
+config:
+  version: 1.0.0
+projectName: Coding Assessment photoday0914
+abbreviatedProjectName: codingAssessmentPhotoday0914
+repoName: coding-assessment-photoday0914
+environments: []
+stack:
+  - features: []
+    kind: CodingAssessment
+    path: .
